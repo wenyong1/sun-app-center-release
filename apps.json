@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-04T16:30:00+08:00",
+  "apps": [
+    {
+      "name": "Sun 应用中心",
+      "packageName": "com.sunappcenter.app",
+      "description": "统一查看、下载和安装自有 Android 应用。",
+      "manifestUrl": "https://raw.githubusercontent.com/wenyong1/sun-app-center-release/main/latest.json",
+      "versionCode": 10001,
+      "versionName": "1.0.1",
+      "apkUrl": "https://github.com/wenyong1/sun-app-center-release/releases/download/v1.0.1/SunAppCenter-1.0.1.apk",
+      "releasePageUrl": "https://github.com/wenyong1/sun-app-center-release/releases/latest",
+      "releaseNotes": "界面显示总清单地址、每个应用的版本清单来源和发布页，便于确认版本来自哪里。",
+      "sha256": "",
+      "publishedAt": "2026-05-05T00:45:00+08:00",
+      "mandatory": false
+    },
+    {
+      "name": "童程打卡",
+      "packageName": "com.tongchengdaka.app",
+      "description": "孩子日常打卡、记录和提醒。",
+      "manifestUrl": "https://raw.githubusercontent.com/wenyong1/tongchengdaka-release/main/latest.json",
+      "releasePageUrl": "https://wenyong1.github.io/tongchengdaka-release/"
+    }
+  ]
+}
