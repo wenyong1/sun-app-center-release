@@ -1,0 +1,11 @@
+{
+  "packageName": "com.sunappcenter.app",
+  "versionCode": 10001,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/wenyong1/sun-app-center-release/releases/download/v1.0.1/SunAppCenter-1.0.1.apk",
+  "releasePageUrl": "https://github.com/wenyong1/sun-app-center-release/releases/latest",
+  "releaseNotes": "界面显示总清单地址、每个应用的版本清单来源和发布页，便于确认版本来自哪里。",
+  "sha256": "374825a5d7b59c3e978206b2656a28ae10190630627502a727572309efabfe81",
+  "publishedAt": "2026-05-05T00:45:00+08:00",
+  "mandatory": false
+}
